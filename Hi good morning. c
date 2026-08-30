@@ -1,5 +1,0 @@
-#include <stdio.h>
-int main() {
-    printf("hi good morning ");
-    return 0;
-}
